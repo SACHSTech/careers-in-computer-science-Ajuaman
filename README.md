@@ -11,15 +11,15 @@ The role of the cybersecurity analysts is to protect organizational infrastructu
 
 ### Skills: Technical and Non-Technical
 
-__**Technical Skills**__
+**Technical Skills**
 
 The main technical skills required to be a cybersecurity analyst would be proficiency in programming languages such as Python, Java, or C++ , knowledge of ethical hacking tools such as Nmap or social engineering, and Network Security Control such as firewalls, routers, or detecting unauthorized traffic. 
 
-__**Non-Technical Skills**__
+**Non-Technical Skills**
 Some non-technical skills required for a career in cybersecurity would be communication skills when working in a team, time-management, critical thinking, and problem solving.
 
 
-__**Required Education and Salary Range**__
+**Required Education and Salary Range**
 
 Some of the educational requirements for going into cybersecurity or information technology jobs would be a degree in computer science or in IT systems engineering. For an entry level position the average salary generally starts at around $76,850 per year, while most experienced or senior workers make up to $131,250 per year on average. Refer to the table below for a general salary range
 
@@ -32,7 +32,7 @@ Some of the educational requirements for going into cybersecurity or information
 
 ## Section 1.2: Standard Education
 
-[__**Ontario Tech University**__](https://ontariotechu.ca/programs/undergraduate/computers-and-technology/information-technology-networking-and-information-technology-security/)
+## [__**Ontario Tech University**__](https://ontariotechu.ca/programs/undergraduate/computers-and-technology/information-technology-networking-and-information-technology-security/)
 
 <img src="ontario-tech-university-vector-logo.png" width="350" height="200">
 
@@ -58,7 +58,26 @@ Some of the first year courses that you will take in Ontario Tech University’s
 
 **Additional Requirements**
 
-Applicants must also complete an internship program in order to give students an opportunity to apply classroom concepts to the challenges of organizational life.
+Applicants must also complete an internship program in order to give students an opportunity to apply classroom concepts to the challenges of organizational life. The program is four years long.
 
-The program is four years long
+## [**Centennial College**](https://www.centennialcollege.ca/programs-courses/full-time/cybersecurity/)
 
+<img src="centennial-college-logo-vector.png" width="350" height="200">
+
+Centennial College's Cybersecurity program is a one-year graduate certificate. It is designed to address the industry’s increasing demand for well-educated and professional security managers in the private and public sector. It teaches current IT security tools, policies and techniques in a modern cybersecurity lab.
+
+**Entrance Requirements**
+
+The entrance requirements are an Ontario Secondary Diploma (OSSD), and an advanced college diploma or bachelor's degree in computer science, computer/electronic/communication engineering, IT, or related discipline. 
+
+**First Year Courses**
+
+- Information Systems Security
+- Communication Networks
+- Cryptography & Network Security
+- Web Security
+- Software Security
+- Cyber Forensics
+- Mobile Network Security
+- Cloud Security
+- Ethical Hacking and Defense
