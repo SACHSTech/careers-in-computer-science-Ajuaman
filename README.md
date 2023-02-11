@@ -106,3 +106,19 @@ The entrance requirements are an Ontario Secondary Diploma (OSSD), and an advanc
 
 Students must also complete a final Capstone Project in order to graduate with their certificate.
 
+## Section 1.3: Experiential Learning
+
+## Section 1.4: Real Jobs
+
+
+## [Entry Level Position: IBM Entry Level - Security Consultant](https://ca.indeed.com/entry-level-cyber-security-$80,000-jobs-in-Toronto,-ON?vjk=9827b7d2d04390bb)
+
+**City:** Markham
+
+**Salary:** 40$/hour or $76,960/year
+
+**Job Type:** Full-Time
+
+**Description:** IBM Security is seeking highly talented candidates to fill a client-focused, cybersecurity consultant role on our services team. We are in an era of advanced cybersecurity threats. These threats are persistent and continuously evolving, and the impact of security breaches on an organization can be devastating. At IBM, our clients have security in mind and your job is to help them get there. As part of IBM’s security team, you will work with teams and clients as they transform organizational security. We’re driven by more than just providing security solutions for organizations. We want our clients to succeed. IBMer’s can access our entire organization to develop original ideas that help clients create the world they imagine.
+
+**Skills Required:** The employer wants someone with knowledge of IT security concepts, communication skills, analytical skills, collaboration, and experience with operating systems (Linux, Unix, Windows). They also would like someone who is easy to work with and can absorb professional knowledge quickly or develop new skills
