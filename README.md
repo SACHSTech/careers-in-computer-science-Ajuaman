@@ -11,15 +11,15 @@ The role of the cybersecurity analysts is to protect organizational infrastructu
 
 ### Skills: Technical and Non-Technical
 
-**Technical Skills**
+__**Technical Skills**__
 
 The main technical skills required to be a cybersecurity analyst would be proficiency in programming languages such as Python, Java, or C++ , knowledge of ethical hacking tools such as Nmap or social engineering, and Network Security Control such as firewalls, routers, or detecting unauthorized traffic. 
 
-**Non-Technical Skills**
+__**Non-Technical Skills**__
 Some non-technical skills required for a career in cybersecurity would be communication skills when working in a team, time-management, critical thinking, and problem solving.
 
 
-**Required Education and Salary Range**
+__**Required Education and Salary Range**__
 
 Some of the educational requirements for going into cybersecurity or information technology jobs would be a degree in computer science or in IT systems engineering. For an entry level position the average salary generally starts at around $76,850 per year, while most experienced or senior workers make up to $131,250 per year on average. Refer to the table below for a general salary range
 
@@ -30,6 +30,13 @@ Some of the educational requirements for going into cybersecurity or information
 | Medium-Level Job|$83,928       |
 | Senior Developer/IT|$131,250|
 
+## Section 1.2: Standard Education
+
+### University 1: Ontario Institute of Technology
+
+![Alt text](C:\Users\tatec\github-classroom\SACHSTech\careers-in-computer-science-Ajuaman\ontario-tech-university-vector-logo.png?raw=true "Title")
+
+The University of Ontario Institute of Technology, popularly known as the Ontario Tech University, is the top institute in Canada that offers education enriched with research in the field of cyber security. Their program is called Networking and Information Technology Security
 
 
 
