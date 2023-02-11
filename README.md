@@ -9,7 +9,7 @@ The career I have chosen is Cybersecurity Analyst.
 
 The role of the cybersecurity analysts is to protect organizational infrastructure such as computer networks, company hardware, software, and networks from cybercriminals and hackers. These hackers intend to steal or damage sensitive information from companies. These analysts use various programs and tools to assist them with their tasks such as port-scanners, special operating systems, and programming knowledge. Some examples of responsibilities that cybersecurity analysts would have on a daily basis would be investigating security breaches, working with teams to locate network vulnerabilities, perform ethical hacking, and install security software.
 
-## Skills: Technical and Non-Technical
+### Skills: Technical and Non-Technical
 
 **Technical Skills**
 
@@ -19,6 +19,17 @@ The main technical skills required to be a cybersecurity analyst would be profic
 Some non-technical skills required for a career in cybersecurity would be communication skills when working in a team, time-management, critical thinking, and problem solving.
 
 
-**Required Education**
+**Required Education and Salary Range**
+
+Some of the educational requirements for going into cybersecurity or information technology jobs would be a degree in computer science or in IT systems engineering. For an entry level position the average salary generally starts at around $76,850 per year, while most experienced or senior workers make up to $131,250 per year on average. Refer to the table below for a general salary range
+
+
+| Job Level    | Salary           |
+| -------------|:-------------:| 
+| Entry-Level Job| $76,850 
+| Medium-Level Job|$83,928       |
+| Senior Developer/IT|$131,250|
+
+
 
 
