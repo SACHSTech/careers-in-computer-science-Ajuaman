@@ -1,2 +1,24 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10086942&assignment_repo_type=AssignmentRepo)
-# Careers in Computer Science
+# Careers in Computer Science - Tate Chin
+
+## Section 1.1: The Basics
+
+The career I have chosen is Cybersecurity Analyst.
+
+**Description and Responsibilities**
+
+The role of the cybersecurity analysts is to protect organizational infrastructure such as computer networks, company hardware, software, and networks from cybercriminals and hackers. These hackers intend to steal or damage sensitive information from companies. These analysts use various programs and tools to assist them with their tasks such as port-scanners, special operating systems, and programming knowledge. Some examples of responsibilities that cybersecurity analysts would have on a daily basis would be investigating security breaches, working with teams to locate network vulnerabilities, perform ethical hacking, and install security software.
+
+## Skills: Technical and Non-Technical
+
+**Technical Skills**
+
+The main technical skills required to be a cybersecurity analyst would be proficiency in programming languages such as Python, Java, or C++ , knowledge of ethical hacking tools such as Nmap or social engineering, and Network Security Control such as firewalls, routers, or detecting unauthorized traffic. 
+
+**Non-Technical Skills**
+Some non-technical skills required for a career in cybersecurity would be communication skills when working in a team, time-management, critical thinking, and problem solving.
+
+
+**Required Education**
+
+
