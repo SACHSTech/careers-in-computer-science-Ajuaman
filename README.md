@@ -32,11 +32,33 @@ Some of the educational requirements for going into cybersecurity or information
 
 ## Section 1.2: Standard Education
 
-### University 1: Ontario Institute of Technology
+[__**Ontario Tech University**__](https://ontariotechu.ca/programs/undergraduate/computers-and-technology/information-technology-networking-and-information-technology-security/)
 
-![Alt text](C:\Users\tatec\github-classroom\SACHSTech\careers-in-computer-science-Ajuaman\ontario-tech-university-vector-logo.png?raw=true "Title")
+<img src="ontario-tech-university-vector-logo.png" width="350" height="200">
 
 The University of Ontario Institute of Technology, popularly known as the Ontario Tech University, is the top institute in Canada that offers education enriched with research in the field of cyber security. Their program is called Networking and Information Technology Security
 
+**Entrance Requirements**
+The Networking and Information Technology Security program requires an Ontario Secondary School Diploma (OSSD) with six 4U or 4M credits, including English (ENG4U) with a minimum average of 60 per cent, and one of Advanced Functions (MHF4U), Calculus and Vectors (MCV4U) or Mathematics of Data Management (MDM4U) with a minimum average of 60 per cent or Computer Science (ICS4U) with a minimum average of 70 per cent.
 
+**First Year Courses**
+
+Some of the first year courses that you will take in Ontario Tech University’s program would be:
+
+- **BUSI 1020U – Business Communications:** A course about organizing business documents
+- **BUSI 1600U – Management of the Enterprise:** A class about managing projects on a company wide scale
+- **BUSI 2000U – Collaborative Leadership:** Learning about working in a team environment
+- **INFR 1010U – Discrete Mathematics:** A course about the study of mathematical structures
+- **INFR 1016U – Introductory Calculus:** Calculus introduction
+- **INFR 1101U – Introduction to Programming for IT:** Programming introduction
+- **INFR 1411U – Introduction to Networking I:** A course about networks and how they work
+- **INFR 1421U – Introduction to Networking II:** A continuation of networking
+- **INFR 2141U – Object Oriented Programming for IT:** A course on object oriented programming
+- **INFR 2810U – Computer Architecture:** Teaches how computers work
+
+**Additional Requirements**
+
+Applicants must also complete an internship program in order to give students an opportunity to apply classroom concepts to the challenges of organizational life.
+
+The program is four years long
 
