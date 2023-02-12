@@ -122,7 +122,7 @@ Cooperative education: Gain some practical experience through internships. It do
 ## Section 1.4: Real Jobs
 
 
-## [Entry Level Position: IBM Entry Level - Security Consultant](https://ca.indeed.com/entry-level-cyber-security-$80,000-jobs-in-Toronto,-ON?vjk=9827b7d2d04390bb)
+### [Entry Level Position: IBM Entry Level - Security Consultant](https://ca.indeed.com/entry-level-cyber-security-$80,000-jobs-in-Toronto,-ON?vjk=9827b7d2d04390bb)
 
 **City:** Markham
 
@@ -134,6 +134,16 @@ Cooperative education: Gain some practical experience through internships. It do
 
 **Skills Required:** The employer wants someone with knowledge of IT security concepts, communication skills, analytical skills, collaboration, and experience with operating systems (Linux, Unix, Windows). They also would like someone who is easy to work with and can absorb professional knowledge quickly or develop new skills
 
+
+### [Senior Position:  Lead API Security Analyst Compunnel Inc](https://www.monster.ca/job-openings/lead-api-security-analyst-toronto-08--30558d66-9b75-4871-aeee-c8e09c417a47?sid=1121a88c-8d4e-4252-8b9f-ad5460e4e83d&jvo=v.k.r.1&so=v.s.r&hidesmr=1&promoted=KEVEL)
+
+**City:** Toronto, ON
+**Salary:** $95 - $100/Hour or around $192,400/year
+**Job Type:** Temporary, Contractor, Full-Time
+
+**Description:** This position is for a senior level cybersecurity professional to lead API Security initiatives and programs within our Global Cybersecurity Services (GCS) Team. You will be reporting to the Director API and Host Security.
+
+**Skills Required:** The employer wants at least 5 years of experience in cyber security. You must have strong verbal and written communication, a capacity to learn, experience with security scanning, organizational skills, and a deep appreciation for teamwork
 
 ## Work Cited
 
