@@ -106,7 +106,16 @@ The entrance requirements are an Ontario Secondary Diploma (OSSD), and an advanc
 
 Students must also complete a final Capstone Project in order to graduate with their certificate.
 
-## Section 1.3: Experiential Learning
+## Section 1.3: Methods of Experiential Learning for Cybersecurity
+
+The biggest method of learning cybersecurity is self-teaching through online programs. It is an excellent method for gaining knowledge with no prior experience, and most of the resources are free. Experiential learning and doing cybersecurity or IT related projects is integral to learning and creating a portfolio for future jobs.
+
+**Learning Programming Languages:** Get acquainted with various programming languages, as senior cybersecurity analysts are often using Python in their daily job.
+
+**Log Your Projects:** Create an online portfolio with personal projects in which demonstrate relative practical skills that can be applied to the workplace
+
+**Cybersecurity Contests:** Participate in cybersecurity events or competitions. For example, in Canada there are the [CyberSci competitions](https://cybersecuritychallenge.ca/) for university and college students. 
+
 
 ## Section 1.4: Real Jobs
 
@@ -122,3 +131,14 @@ Students must also complete a final Capstone Project in order to graduate with t
 **Description:** IBM Security is seeking highly talented candidates to fill a client-focused, cybersecurity consultant role on our services team. We are in an era of advanced cybersecurity threats. These threats are persistent and continuously evolving, and the impact of security breaches on an organization can be devastating. At IBM, our clients have security in mind and your job is to help them get there. As part of IBM’s security team, you will work with teams and clients as they transform organizational security. We’re driven by more than just providing security solutions for organizations. We want our clients to succeed. IBMer’s can access our entire organization to develop original ideas that help clients create the world they imagine.
 
 **Skills Required:** The employer wants someone with knowledge of IT security concepts, communication skills, analytical skills, collaboration, and experience with operating systems (Linux, Unix, Windows). They also would like someone who is easy to work with and can absorb professional knowledge quickly or develop new skills
+
+
+## Work Cited
+
+About Monica J. White      Monica is a journalist with a lifelong interest in technology. “How to Get into Cybersecurity with No Experience [Job Guide].” Springboard Blog, 11 Nov. 2022, https://www.springboard.com/blog/cybersecurity/cybersecurity-no-experience/. 
+
+“Cyber+Security Salary in Canada - Average Salary.” Talent.com, https://ca.talent.com/salary?job=cyber%2Bsecurity#:~:text=Entry%2Dlevel%20positions%20start%20at,up%20to%20%24131%2C250%20per%20year. 
+
+“Cybersecurity Analyst Job Description &amp; Role Breakdown.” UT Austin Boot Camps, 28 Jan. 2021, https://techbootcamps.utexas.edu/blog/cybersecurity-analyst-job-description-role-breakdown/. 
+
+“What Does a Cybersecurity Analyst Do? 2023 Job Guide.” Coursera, https://www.coursera.org/articles/cybersecurity-analyst-job-guide. 
