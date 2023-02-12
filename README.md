@@ -146,7 +146,7 @@ Cooperative education: Gain some practical experience through internships. It do
 **Skills Required:** The employer wants at least 5 years of experience in cyber security. You must have strong verbal and written communication, a capacity to learn, experience with security scanning, organizational skills, and a deep appreciation for teamwork
 
 
-### [Middle Level Position: Cyber Security Specialist ](https://www.monster.ca/jobs/search?q=mid+level+Cyber+Security&where=&page=1&so=m.s.sh)
+### [Middle Level Position: Cyber Security Specialist ](https://www.monster.ca/jobs/search?q=&where=&page=1&cn=Qlogitek)
 
 **City:** Mississauga 
 
@@ -156,7 +156,7 @@ Cooperative education: Gain some practical experience through internships. It do
 
 **Description:** A Cyber Security Specialist conducts vulnerability assessments, provide feedback on issues related to the execution of the Vulnerability Assessment programs, assist with the creation of action plans, assist with the identification and tracking of risk remediation, provide advice on mitigation safeguards, processes and security best practices and act as a spokesperson on security related subjects.
 
-**Skills Required:** 
+**Skills Required:** The employer is looking for someone who can conduct threat analysis, implement vulnerablity assessment, run diagnostics, configure anti-virus systems, and have experience with ASP.NET/Java. They also require a minimum of two years experience and experience managing cyber policies.
 
 ## Work Cited
 
