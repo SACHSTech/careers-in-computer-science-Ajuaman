@@ -116,6 +116,8 @@ The biggest method of learning cybersecurity is self-teaching through online pro
 
 **Cybersecurity Contests:** Participate in cybersecurity events or competitions. For example, in Canada there are the [CyberSci competitions](https://cybersecuritychallenge.ca/) for university and college students. 
 
+Cooperative education: Gain some practical experience through internships. It does not have to be related to cybersecurity, as developer jobs help with shifting towards information technology. Being familiar with development workspace, and proving you have the skills required for software development.
+
 
 ## Section 1.4: Real Jobs
 
