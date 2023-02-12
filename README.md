@@ -149,7 +149,9 @@ Cooperative education: Gain some practical experience through internships. It do
 ### [Middle Level Position: Cyber Security Specialist ](https://www.monster.ca/jobs/search?q=mid+level+Cyber+Security&where=&page=1&so=m.s.sh)
 
 **City:** Mississauga 
+
 **Salary:** $65/hour or $125,060/year
+
 **Job Type:** Full-Time, Permanent
 
 **Description:** A Cyber Security Specialist conducts vulnerability assessments, provide feedback on issues related to the execution of the Vulnerability Assessment programs, assist with the creation of action plans, assist with the identification and tracking of risk remediation, provide advice on mitigation safeguards, processes and security best practices and act as a spokesperson on security related subjects.
@@ -165,3 +167,11 @@ About Monica J. White      Monica is a journalist with a lifelong interest in te
 “Cybersecurity Analyst Job Description &amp; Role Breakdown.” UT Austin Boot Camps, 28 Jan. 2021, https://techbootcamps.utexas.edu/blog/cybersecurity-analyst-job-description-role-breakdown/. 
 
 “What Does a Cybersecurity Analyst Do? 2023 Job Guide.” Coursera, https://www.coursera.org/articles/cybersecurity-analyst-job-guide. 
+
+“Information Technology - Networking and Information Technology Security.” Ontario Tech University, https://ontariotechu.ca/programs/undergraduate/computers-and-technology/information-technology-networking-and-information-technology-security/. 
+
+“Networking and Information Technology Security.” Program: Networking and Information Technology Security - Ontario Tech University - Acalog ACMS™, https://calendar.ontariotechu.ca/preview_program.php?catoid=34&amp;poid=6209&amp;returnto=1407. 
+
+“Centennial College - Cybersecurity.” Centennial College - Centennial College, https://www.centennialcollege.ca/programs-courses/full-time/cybersecurity/. 
+
+
