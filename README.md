@@ -145,6 +145,17 @@ Cooperative education: Gain some practical experience through internships. It do
 
 **Skills Required:** The employer wants at least 5 years of experience in cyber security. You must have strong verbal and written communication, a capacity to learn, experience with security scanning, organizational skills, and a deep appreciation for teamwork
 
+
+### [Middle Level Position: Cyber Security Specialist ](https://www.monster.ca/jobs/search?q=mid+level+Cyber+Security&where=&page=1&so=m.s.sh)
+
+**City:** Mississauga 
+**Salary:** $65/hour or $125,060/year
+**Job Type:** Full-Time, Permanent
+
+**Description:** A Cyber Security Specialist conducts vulnerability assessments, provide feedback on issues related to the execution of the Vulnerability Assessment programs, assist with the creation of action plans, assist with the identification and tracking of risk remediation, provide advice on mitigation safeguards, processes and security best practices and act as a spokesperson on security related subjects.
+
+**Skills Required:** 
+
 ## Work Cited
 
 About Monica J. White      Monica is a journalist with a lifelong interest in technology. “How to Get into Cybersecurity with No Experience [Job Guide].” Springboard Blog, 11 Nov. 2022, https://www.springboard.com/blog/cybersecurity/cybersecurity-no-experience/. 
