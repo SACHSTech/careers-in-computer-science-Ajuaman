@@ -46,7 +46,7 @@ Some of the first year courses that you will take in Ontario Tech University’s
 
 
 | Course  | Description           |
-| -------------|:-------------:| 
+| -------------|-------------| 
 | - **BUSI 1020U – Business Communications:** | A course about organizing business documents.
 | **BUSI 1600U – Management of the Enterprise:** |A class about managing projects on a company wide scale.|
 | **BUSI 2000U – Collaborative Leadership:** |Learning about working in a team environment.|
@@ -76,7 +76,7 @@ The entrance requirements are an Ontario Secondary Diploma (OSSD), and an advanc
 **First Year Courses**
 
 | Course    | Description           |
-| -------------|:-------------:| 
+| -------------|-------------| 
 | **CBER-701: Information Systems Security** | A course about the protection of information systems against unauthorized access to or modification of information.
 | **CBER-702: Communication Networks**|The study of communication between servers.|
 | **CBER-704: Cryptography & Network Security**|A course about protecting information and communications through the use of codes and cracking ciphers.|
