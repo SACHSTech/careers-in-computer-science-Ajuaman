@@ -7,7 +7,9 @@ The career I have chosen is Cybersecurity Analyst.
 
 **Description and Responsibilities**
 
-The role of the cybersecurity analysts is to protect organizational infrastructure such as computer networks, company hardware, software, and networks from cybercriminals and hackers. These hackers intend to steal or damage sensitive information from companies. These analysts use various programs and tools to assist them with their tasks such as port-scanners, special operating systems, and programming knowledge. Some examples of responsibilities that cybersecurity analysts would have on a daily basis would be investigating security breaches, working with teams to locate network vulnerabilities, perform ethical hacking, and install security software.
+
+The role of the cybersecurity analysts is to protect organizational infrastructure such as computer networks, company hardware, software, and networks from cybercriminals and hackers. These hackers intend to steal or damage sensitive information from companies, and usually sell it to other hackers. These analysts use various programs and tools to assist them with their tasks such as port-scanners, special operating systems, and programming knowledge. Some examples of responsibilities that cybersecurity analysts would have on a daily basis would be investigating security breaches, locating network vulnerabilities, performing ethical hacking, and installing security software. Often, cybersecurity analysts work in teams to complete these tasks, so it is important to have excellent communication between team members.
+
 
 ### Skills: Technical and Non-Technical
 
@@ -36,7 +38,7 @@ Some of the educational requirements for going into cybersecurity or information
 
 <img src="ontario-tech-university-vector-logo.png" width="350" height="200">
 
-The University of Ontario Institute of Technology, popularly known as the Ontario Tech University, is the top institute in Canada that offers education enriched with research in the field of cyber security. Their program is called Networking and Information Technology Security
+The University of Ontario Institute of Technology, popularly known as the Ontario Tech University, is the top institute in Canada that offers education enriched with research in the field of cyber security. Their program is called Networking and Information Technology Security.
 
 **Entrance Requirements**
 The Networking and Information Technology Security program requires an Ontario Secondary School Diploma (OSSD) with six 4U or 4M credits, including English (ENG4U) with a minimum average of 60 per cent, and one of Advanced Functions (MHF4U), Calculus and Vectors (MCV4U) or Mathematics of Data Management (MDM4U) with a minimum average of 60 per cent or Computer Science (ICS4U) with a minimum average of 70 per cent.
@@ -46,25 +48,25 @@ The Networking and Information Technology Security program requires an Ontario S
 Some of the first year courses that you will take in Ontario Tech University’s program would be:
 
 - **BUSI 1020U – Business Communications:** 
-> A course about organizing business documents
+> A course about organizing business documents.
 - **BUSI 1600U – Management of the Enterprise:** 
-> A class about managing projects on a company wide scale
+> A class about managing projects on a company wide scale.
 - **BUSI 2000U – Collaborative Leadership:** 
-> Learning about working in a team environment
+> Learning about working in a team environment.
 - **INFR 1010U – Discrete Mathematics:** 
-> A course about the study of mathematical structures
+> A course about the study of mathematical structures.
 - **INFR 1016U – Introductory Calculus:** 
-> Calculus introduction
+> Calculus introduction.
 - **INFR 1101U – Introduction to Programming for IT:** 
-> Programming introduction
+> Programming introduction.
 - **INFR 1411U – Introduction to Networking I:** 
-> A course about networks and how they work
+> A course about networks and how they work.
 - **INFR 1421U – Introduction to Networking II:** 
-> A continuation of networking
+> A continuation of networking.
 - **INFR 2141U – Object Oriented Programming for IT:** 
-> A course on object oriented programming
+> A course on object oriented programming.
 - **INFR 2810U – Computer Architecture:** 
-> Teaches how computers work
+> Teaches how computers work.
 
 
 **Additional Requirements**
@@ -84,23 +86,23 @@ The entrance requirements are an Ontario Secondary Diploma (OSSD), and an advanc
 **First Year Courses**
 
 - **CBER-701: Information Systems Security**
-> A course about the protection of information systems against unauthorized access to or modification of information
+> A course about the protection of information systems against unauthorized access to or modification of information.
 - **CBER-702: Communication Networks**
-> The study of communication between servers
+> The study of communication between servers.
 - **CBER-704: Cryptography & Network Security**
-> A course about protecting information and communications through the use of codes and cracking ciphers
+> A course about protecting information and communications through the use of codes and cracking ciphers.
 - **CBER-705: Web Security**
-> A tutorial course on keeping websites secure
+> A tutorial course on keeping websites secure.
 - **CBER-711: Software Security**
-> A course on keeping written software or scripts safe from malware or other bugs
+> A course on keeping written software or scripts safe from malware or other bugs.
 - **CBER-703: Cyber Forensics**
-> Cyber forensics is defined as the application of investigation and analysis techniques to gather and preserve evidence from a particular computing device
+> Cyber forensics is defined as the application of investigation and analysis techniques to gather and preserve evidence from a particular computing device.
 - **CBER-706: Mobile Network Security**
-> About protecting sensitive information stored on and transmitted by laptops,
+> About protecting sensitive information stored on and transmitted by laptops.
 - **CBER-707: Cloud Security**
-> The process of protecting cloud data
+> The process of protecting cloud data.
 - **CBER-721: Ethical Hacking and Defense**
-> A course aboutdetecting vulnerabilities in an application, system, or organization's infrastructure
+> A course aboutdetecting vulnerabilities in an application, system, or organization's infrastructure.
 
 **Additional Requirements**
 
@@ -174,4 +176,8 @@ About Monica J. White      Monica is a journalist with a lifelong interest in te
 
 “Centennial College - Cybersecurity.” Centennial College - Centennial College, https://www.centennialcollege.ca/programs-courses/full-time/cybersecurity/. 
 
+Entry Level Cyber Security Jobs (with Salaries) 2022 - Indeed. https://ca.indeed.com/Entry-Level-Cyber-Security-jobs. 
 
+“Lead API Security Analyst.” Lead API Security Analyst - Compunnel Inc, https://www.monster.ca/job-openings/lead-api-security-analyst-toronto-08--30558d66-9b75-4871-aeee-c8e09c417a47?sid=1121a88c-8d4e-4252-8b9f-ad5460e4e83d&amp;jvo=v.k.r.1&amp;so=v.s.r&amp;hidesmr=1&amp;promoted=KEVEL. 
+
+“Mid+Level+Cyber+Security Jobs.” Monster Jobs - Job Search, Career Advice &amp; Hiring Resources | Monster.ca | Mid+Level+Cyber+Security, https://www.monster.ca/jobs/search?q=mid%2Blevel%2BCyber%2BSecurity&amp;where=&amp;page=1&amp;so=m.s.sh. 
