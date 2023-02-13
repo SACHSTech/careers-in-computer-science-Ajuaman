@@ -1,6 +1,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10086942&assignment_repo_type=AssignmentRepo)
 # Careers in Computer Science - Cybersecurity Analyst
 
+<img src="960x0.jpg" width="350" height="200">
+
 ## The Basics
 
 **Description and Responsibilities**
@@ -9,6 +11,9 @@ The role of the cybersecurity analysts is to protect organizational infrastructu
 
 
 ### Skills: Technical and Non-Technical
+
+
+<img src="desktop-source-code-and-wallpaper-by-coding-and-programming-free-photo.jpg" width="350" height="200">
 
 **Technical Skills**
 
@@ -170,3 +175,5 @@ Entry Level Cyber Security Jobs (with Salaries) 2022 - Indeed. https://ca.indeed
 “Centennial College Logo PNG.” Tukuz.com, https://tukuz.com/wp-content/uploads/2020/10/centennial-college-logo-vector.png. Accessed 13 Feb. 2023. 
 
 “Canada's Cyber Security Challenge.” CyberSci, https://cybersecuritychallenge.ca/. 
+
+“Hacker Stock Photo.” Forbes, https://www.forbes.com/sites/forbestechcouncil/2022/07/29/just-because-you-dont-see-hackers-doesnt-mean-theyre-not-in-your-network/?sh=5651f5042949. Accessed 13 Feb. 2023. 
