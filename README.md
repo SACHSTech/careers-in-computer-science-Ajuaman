@@ -86,8 +86,7 @@ The entrance requirements are an Ontario Secondary Diploma (OSSD), and an advanc
 |**CBER-703: Cyber Forensics**|Cyber forensics is defined as the application of investigation and analysis techniques to gather and preserve evidence from a particular computing device.|
 |**CBER-706: Mobile Network Security**|About protecting sensitive information stored on and transmitted by laptops.|
 |**CBER-707: Cloud Security**|The process of protecting cloud data.|
-|**CBER-721: Ethical Hacking and Defense**|A course aboutdetecting vulnerabilities in an application, system, or organization's infrastructure.
-|
+|**CBER-721: Ethical Hacking and Defense**|A course aboutdetecting vulnerabilities in an application, system, or organization's infrastructure.|
 
 **Additional Requirements**
 
