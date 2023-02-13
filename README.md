@@ -1,9 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10086942&assignment_repo_type=AssignmentRepo)
-# Careers in Computer Science - Tate Chin
+# Careers in Computer Science - Cybersecurity Analyst
 
-## Section 1.1: The Basics
-
-The career I have chosen is Cybersecurity Analyst.
+## The Basics
 
 **Description and Responsibilities**
 
@@ -31,7 +29,7 @@ Some of the educational requirements for going into cybersecurity or information
 | Medium-Level Job|$83,928       |
 | Senior Developer/IT|$131,250|
 
-## Section 1.2: Standard Education
+## Standard Education
 
 ## [__**Ontario Tech University**__](https://ontariotechu.ca/programs/undergraduate/computers-and-technology/information-technology-networking-and-information-technology-security/)
 
@@ -46,27 +44,21 @@ The Networking and Information Technology Security program requires an Ontario S
 
 Some of the first year courses that you will take in Ontario Tech University’s program would be:
 
-- **BUSI 1020U – Business Communications:** 
-> A course about organizing business documents.
-- **BUSI 1600U – Management of the Enterprise:** 
-> A class about managing projects on a company wide scale.
-- **BUSI 2000U – Collaborative Leadership:** 
-> Learning about working in a team environment.
-- **INFR 1010U – Discrete Mathematics:** 
-> A course about the study of mathematical structures.
-- **INFR 1016U – Introductory Calculus:** 
-> Calculus introduction.
-- **INFR 1101U – Introduction to Programming for IT:** 
-> Programming introduction.
-- **INFR 1411U – Introduction to Networking I:** 
-> A course about networks and how they work.
-- **INFR 1421U – Introduction to Networking II:** 
-> A continuation of networking.
-- **INFR 2141U – Object Oriented Programming for IT:** 
-> A course on object oriented programming.
-- **INFR 2810U – Computer Architecture:** 
-> Teaches how computers work.
 
+| Course  | Description           |
+| -------------|:-------------:| 
+| - **BUSI 1020U – Business Communications:** | A course about organizing business documents.
+| **BUSI 1600U – Management of the Enterprise:** |A class about managing projects on a company wide scale.|
+| **BUSI 2000U – Collaborative Leadership:** |Learning about working in a team environment.|
+|**BUSI 2000U – Collaborative Leadership:**  | Learning about working in a team environment.|
+| **INFR 1010U – Discrete Mathematics:** |  A course about the study of mathematical structures.|
+| **INFR 1016U – Introductory Calculus:** |Calculus introduction.|
+|**INFR 1101U – Introduction to Programming for IT:**  |Programming introduction. |
+|**INFR 1411U – Introduction to Networking I:**  |A course about networks and how they work.|
+|**INFR 1421U – Introduction to Networking II:**  |A continuation of networking. |
+|**INFR 2141U – Object Oriented Programming for IT:** |A course on object oriented programming.|
+|**INFR 2810U – Computer Architecture:** |Teaches how computers work.
+|
 
 **Additional Requirements**
 
@@ -84,30 +76,24 @@ The entrance requirements are an Ontario Secondary Diploma (OSSD), and an advanc
 
 **First Year Courses**
 
-- **CBER-701: Information Systems Security**
-> A course about the protection of information systems against unauthorized access to or modification of information.
-- **CBER-702: Communication Networks**
-> The study of communication between servers.
-- **CBER-704: Cryptography & Network Security**
-> A course about protecting information and communications through the use of codes and cracking ciphers.
-- **CBER-705: Web Security**
-> A tutorial course on keeping websites secure.
-- **CBER-711: Software Security**
-> A course on keeping written software or scripts safe from malware or other bugs.
-- **CBER-703: Cyber Forensics**
-> Cyber forensics is defined as the application of investigation and analysis techniques to gather and preserve evidence from a particular computing device.
-- **CBER-706: Mobile Network Security**
-> About protecting sensitive information stored on and transmitted by laptops.
-- **CBER-707: Cloud Security**
-> The process of protecting cloud data.
-- **CBER-721: Ethical Hacking and Defense**
-> A course aboutdetecting vulnerabilities in an application, system, or organization's infrastructure.
+| Course    | Description           |
+| -------------|:-------------:| 
+| **CBER-701: Information Systems Security** | A course about the protection of information systems against unauthorized access to or modification of information.
+| **CBER-702: Communication Networks**|The study of communication between servers.|
+| **CBER-704: Cryptography & Network Security**|A course about protecting information and communications through the use of codes and cracking ciphers.|
+|**CBER-705: Web Security**|A tutorial course on keeping websites secure. |
+|**CBER-711: Software Security**|A course on keeping written software or scripts safe from malware or other bugs.|
+|**CBER-703: Cyber Forensics**|Cyber forensics is defined as the application of investigation and analysis techniques to gather and preserve evidence from a particular computing device.|
+|**CBER-706: Mobile Network Security**|About protecting sensitive information stored on and transmitted by laptops.|
+|**CBER-707: Cloud Security**|The process of protecting cloud data.|
+|**CBER-721: Ethical Hacking and Defense**|A course aboutdetecting vulnerabilities in an application, system, or organization's infrastructure.
+|
 
 **Additional Requirements**
 
 Students must also complete a final Capstone Project in order to graduate with their certificate.
 
-## Section 1.3: Methods of Experiential Learning for Cybersecurity
+## Methods of Experiential Learning for Cybersecurity
 
 The biggest method of learning cybersecurity is self-teaching through online programs. It is an excellent method for gaining knowledge with no prior experience, and most of the resources are free. Experiential learning and doing cybersecurity or IT related projects is integral to learning and creating a portfolio for future jobs.
 
@@ -120,7 +106,7 @@ The biggest method of learning cybersecurity is self-teaching through online pro
 Cooperative education: Gain some practical experience through internships. It does not have to be related to cybersecurity, as developer jobs help with shifting towards information technology. Being familiar with development workspace, and proving you have the skills required for software development.
 
 
-## Section 1.4: Real Jobs
+## Real Jobs
 
 
 ### [Entry Level Position: IBM Entry Level - Security Consultant](https://ca.indeed.com/entry-level-cyber-security-$80,000-jobs-in-Toronto,-ON?vjk=9827b7d2d04390bb)
