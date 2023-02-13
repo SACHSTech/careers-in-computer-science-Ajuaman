@@ -17,7 +17,7 @@ The role of the cybersecurity analysts is to protect organizational infrastructu
 The main technical skills required to be a cybersecurity analyst would be proficiency in programming languages such as Python, Java, or C++ , knowledge of ethical hacking tools such as Nmap or social engineering, and Network Security Control such as firewalls, routers, or detecting unauthorized traffic. 
 
 **Non-Technical Skills**
-Some non-technical skills required for a career in cybersecurity would be communication skills when working in a team, time-management, critical thinking, and problem solving.
+Some non-technical skills required for a career in cybersecurity would be communication skills when working in a team, time-management, critical thinking, and problem solving. It is also characteristic of a cybersecurity analysts to be good at logical and lateral thinking, and have an interest in information technology
 
 
 **Required Education and Salary Range**
