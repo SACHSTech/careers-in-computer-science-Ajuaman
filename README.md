@@ -57,8 +57,7 @@ Some of the first year courses that you will take in Ontario Tech University’s
 |**INFR 1411U – Introduction to Networking I:**  |A course about networks and how they work.|
 |**INFR 1421U – Introduction to Networking II:**  |A continuation of networking. |
 |**INFR 2141U – Object Oriented Programming for IT:** |A course on object oriented programming.|
-|**INFR 2810U – Computer Architecture:** |Teaches how computers work.
-|
+|**INFR 2810U – Computer Architecture:** |Teaches how computers work.|
 
 **Additional Requirements**
 
