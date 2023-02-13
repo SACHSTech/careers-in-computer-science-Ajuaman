@@ -7,7 +7,6 @@ The career I have chosen is Cybersecurity Analyst.
 
 **Description and Responsibilities**
 
-
 The role of the cybersecurity analysts is to protect organizational infrastructure such as computer networks, company hardware, software, and networks from cybercriminals and hackers. These hackers intend to steal or damage sensitive information from companies, and usually sell it to other hackers. These analysts use various programs and tools to assist them with their tasks such as port-scanners, special operating systems, and programming knowledge. Some examples of responsibilities that cybersecurity analysts would have on a daily basis would be investigating security breaches, locating network vulnerabilities, performing ethical hacking, and installing security software. Often, cybersecurity analysts work in teams to complete these tasks, so it is important to have excellent communication between team members.
 
 
@@ -181,3 +180,9 @@ Entry Level Cyber Security Jobs (with Salaries) 2022 - Indeed. https://ca.indeed
 “Lead API Security Analyst.” Lead API Security Analyst - Compunnel Inc, https://www.monster.ca/job-openings/lead-api-security-analyst-toronto-08--30558d66-9b75-4871-aeee-c8e09c417a47?sid=1121a88c-8d4e-4252-8b9f-ad5460e4e83d&amp;jvo=v.k.r.1&amp;so=v.s.r&amp;hidesmr=1&amp;promoted=KEVEL. 
 
 “Mid+Level+Cyber+Security Jobs.” Monster Jobs - Job Search, Career Advice &amp; Hiring Resources | Monster.ca | Mid+Level+Cyber+Security, https://www.monster.ca/jobs/search?q=mid%2Blevel%2BCyber%2BSecurity&amp;where=&amp;page=1&amp;so=m.s.sh. 
+
+“Ontario Tech University Logo.” Ontariotechu.ca, https://ontariotechu.ca/. Accessed 13 Feb. 2023. 
+
+“Centennial College Logo PNG.” Tukuz.com, https://tukuz.com/wp-content/uploads/2020/10/centennial-college-logo-vector.png. Accessed 13 Feb. 2023. 
+
+“Canada's Cyber Security Challenge.” CyberSci, https://cybersecuritychallenge.ca/. 
