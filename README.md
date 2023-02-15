@@ -7,7 +7,7 @@
 
 **Description and Responsibilities**
 
-The role of the cybersecurity analysts is to protect organizational infrastructure such as computer networks, company hardware, software, and networks from cybercriminals and hackers. These hackers intend to steal or damage sensitive information from companies, and usually sell it to other hackers. These analysts use various programs and tools to assist them with their tasks such as port-scanners, special operating systems, and programming knowledge. Some examples of responsibilities that cybersecurity analysts would have on a daily basis would be investigating security breaches, locating network vulnerabilities, performing ethical hacking, and installing security software. Often, cybersecurity analysts work in teams to complete these tasks, so it is important to have excellent communication between team members.
+The role of the cybersecurity analysts is to protect organizational infrastructure such as computer networks, company hardware, software, and networks from cybercriminals and hackers. These hackers intend to steal or damage sensitive information from companies, and usually sell it to other hackers. These analysts use various programs and tools to assist them with their tasks such as port-scanners, special operating systems, and programming knowledge. At a small company, a cybersecurity analyst might expect to perform a variety of cybersecurity tasks. At larger organizations, one might specialize as one part of a larger security team. Some examples of responsibilities that cybersecurity analysts would have on a daily basis would be investigating security breaches, locating network vulnerabilities, performing ethical hacking, and installing security software.
 
 
 ### Skills: Technical and Non-Technical
@@ -20,7 +20,7 @@ The role of the cybersecurity analysts is to protect organizational infrastructu
 The main technical skills required to be a cybersecurity analyst would be proficiency in programming languages such as Python, Java, or C++ , knowledge of ethical hacking tools such as Nmap or social engineering, and Network Security Control such as firewalls, routers, or detecting unauthorized traffic. 
 
 **Non-Technical Skills**
-Some non-technical skills required for a career in cybersecurity would be communication skills when working in a team, time-management, critical thinking, and problem solving. It is also characteristic of a cybersecurity analysts to be good at logical and lateral thinking, and have an interest in information technology
+Some non-technical skills required for a career in cybersecurity would be communication skills when working in a team, time-management, critical thinking, and problem solving. It is also characteristic of a cybersecurity analysts to be good at logical and lateral thinking, and have an interest in information technology. Cybersecurity analysts must be open and curious when doing their tasks.
 
 
 **Required Education and Salary Range**
@@ -43,6 +43,7 @@ Some of the educational requirements for going into cybersecurity or information
 The University of Ontario Institute of Technology, popularly known as the Ontario Tech University, is the top institute in Canada that offers education enriched with research in the field of cyber security. Their program is called Networking and Information Technology Security.
 
 **Entrance Requirements**
+
 The Networking and Information Technology Security program requires an Ontario Secondary School Diploma (OSSD) with six 4U or 4M credits, including English (ENG4U) with a minimum average of 60 per cent, and one of Advanced Functions (MHF4U), Calculus and Vectors (MCV4U) or Mathematics of Data Management (MDM4U) with a minimum average of 60 per cent or Computer Science (ICS4U) with a minimum average of 70 per cent.
 
 **First Year Courses**
@@ -136,7 +137,7 @@ Cooperative education: Gain some practical experience through internships. It do
 **Skills Required:** The employer wants at least 5 years of experience in cyber security. You must have strong verbal and written communication, a capacity to learn, experience with security scanning, organizational skills, and a deep appreciation for teamwork
 
 
-### [Middle Level Position: Cyber Security Specialist ](https://www.monster.ca/jobs/search?q=&where=&page=1&cn=Qlogitek)
+### [Middle Level Position: Cyber Security Specialist QLogitek](https://www.monster.ca/jobs/search?q=&where=&page=1&cn=Qlogitek)
 
 **City:** Mississauga 
 
@@ -146,7 +147,7 @@ Cooperative education: Gain some practical experience through internships. It do
 
 **Description:** A Cyber Security Specialist conducts vulnerability assessments, provide feedback on issues related to the execution of the Vulnerability Assessment programs, assist with the creation of action plans, assist with the identification and tracking of risk remediation, provide advice on mitigation safeguards, processes and security best practices and act as a spokesperson on security related subjects.
 
-**Skills Required:** The employer is looking for someone who can conduct threat analysis, implement vulnerablity assessment, run diagnostics, configure anti-virus systems, and have experience with ASP.NET/Java. They also require a minimum of two years experience and experience managing cyber policies.
+**Skills Required:** The employer is looking for someone who can conduct threat analysis, implement vulnerability assessment, run diagnostics, configure anti-virus systems, and have experience with ASP.NET/Java. They also require a minimum of two years experience and experience managing cyber policies.
 
 ## Work Cited
 
