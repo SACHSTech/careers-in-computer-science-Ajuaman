@@ -53,7 +53,7 @@ Some of the first year courses that you will take in Ontario Tech University’s
 
 | Course  | Description           |
 | -------------|-------------| 
-| - **BUSI 1020U – Business Communications:** | A course about organizing business documents.
+| **BUSI 1020U – Business Communications:** | A course about organizing business documents.
 | **BUSI 1600U – Management of the Enterprise:** |A class about managing projects on a company wide scale.|
 | **BUSI 2000U – Collaborative Leadership:** |Learning about working in a team environment.|
 |**BUSI 2000U – Collaborative Leadership:**  | Learning about working in a team environment.|
@@ -83,15 +83,15 @@ The entrance requirements are an Ontario Secondary Diploma (OSSD), and an advanc
 
 | Course    | Description           |
 | -------------|-------------| 
-| **CBER-701: Information Systems Security** | A course about the protection of information systems against unauthorized access to or modification of information.
-| **CBER-702: Communication Networks**|The study of communication between servers.|
-| **CBER-704: Cryptography & Network Security**|A course about protecting information and communications through the use of codes and cracking ciphers.|
-|**CBER-705: Web Security**|A tutorial course on keeping websites secure. |
-|**CBER-711: Software Security**|A course on keeping written software or scripts safe from malware or other bugs.|
-|**CBER-703: Cyber Forensics**|Cyber forensics is defined as the application of investigation and analysis techniques to gather and preserve evidence from a particular computing device.|
-|**CBER-706: Mobile Network Security**|About protecting sensitive information stored on and transmitted by laptops.|
-|**CBER-707: Cloud Security**|The process of protecting cloud data.|
-|**CBER-721: Ethical Hacking and Defense**|A course aboutdetecting vulnerabilities in an application, system, or organization's infrastructure.|
+| **CBER-701 Information Systems Security** | A course about the protection of information systems against unauthorized access to or modification of information.
+| **CBER-702 Communication Networks**|The study of communication between servers.|
+| **CBER-704 Cryptography & Network Security**|A course about protecting information and communications through the use of codes and cracking ciphers.|
+|**CBER-705 Web Security**|A tutorial course on keeping websites secure. |
+|**CBER-711 Software Security**|A course on keeping written software or scripts safe from malware or other bugs.|
+|**CBER-703 Cyber Forensics**|Cyber forensics is defined as the application of investigation and analysis techniques to gather and preserve evidence from a particular computing device.|
+|**CBER-706 Mobile Network Security**|About protecting sensitive information stored on and transmitted by laptops.|
+|**CBER-707 Cloud Security**|The process of protecting cloud data.|
+|**CBER-721 Ethical Hacking and Defense**|A course aboutdetecting vulnerabilities in an application, system, or organization's infrastructure.|
 
 **Additional Requirements**
 
