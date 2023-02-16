@@ -81,6 +81,8 @@ The entrance requirements are an Ontario Secondary Diploma (OSSD), and an advanc
 
 **First Year Courses**
 
+Some of the first year courses that you will take in the Centennial College program would be:
+
 | Course    | Description           |
 | -------------|-------------| 
 | **CBER-701 Information Systems Security** | A course about the protection of information systems against unauthorized access to or modification of information.
