@@ -7,7 +7,7 @@
 
 **Description and Responsibilities**
 
-The role of the cybersecurity analysts is to protect organizational infrastructure such as computer networks, company hardware, software, and networks from cybercriminals and hackers. These hackers intend to steal or damage sensitive information from companies, and usually sell it to other hackers. These analysts use various programs and tools to assist them with their tasks such as port-scanners, special operating systems, and programming knowledge. At a small company, a cybersecurity analyst might expect to perform a variety of cybersecurity tasks. At larger organizations, one might specialize as one part of a larger security team. Some examples of responsibilities that cybersecurity analysts would have on a daily basis would be investigating security breaches, locating network vulnerabilities, performing ethical hacking, and installing security software.
+The role of the cybersecurity analysts is to protect organizational infrastructure such as computer networks, company hardware, software, and networks from cybercriminals and hackers. These hackers intend to steal or damage sensitive information from companies, and usually sell it to other hackers. Cybersecurity analysts use various programs and tools to assist them with their tasks such as port-scanners, special operating systems, and programming knowledge. At a small company, a cybersecurity analyst might expect to perform a variety of cybersecurity tasks. At larger organizations, one might specialize as one part of a larger security team. Some examples of responsibilities that cybersecurity analysts would have on a daily basis would be investigating security breaches, locating network vulnerabilities, performing ethical hacking, and installing security software. They are also tasked with researching new IT trends and keeping updated with new security software.
 
 
 ### Skills: Technical and Non-Technical
@@ -25,7 +25,7 @@ Some non-technical skills required for a career in cybersecurity would be commun
 
 **Required Education and Salary Range**
 
-Some of the educational requirements for going into cybersecurity or information technology jobs would be a degree in computer science or in IT systems engineering. For an entry level position the average salary generally starts at around $76,850 per year, while most experienced or senior workers make up to $131,250 per year on average. Refer to the table below for a general salary range
+Some of the educational requirements for going into cybersecurity or information technology jobs would be a degree in computer science or in IT systems engineering. It is also important to have a portfolio of all the projects that a cybersecurity analyst has done. For an entry level position the average salary generally starts at around $76,850 per year, while most experienced or senior workers make up to $131,250 per year on average. Refer to the table below for a general salary range:
 
 
 | Job Level    | Salary           |
@@ -44,7 +44,7 @@ The University of Ontario Institute of Technology, popularly known as the Ontari
 
 **Entrance Requirements**
 
-The Networking and Information Technology Security program requires an Ontario Secondary School Diploma (OSSD) with six 4U or 4M credits, including English (ENG4U) with a minimum average of 60 per cent, and one of Advanced Functions (MHF4U), Calculus and Vectors (MCV4U) or Mathematics of Data Management (MDM4U) with a minimum average of 60 per cent or Computer Science (ICS4U) with a minimum average of 70 per cent.
+The Networking and Information Technology Security program requires an Ontario Secondary School Diploma (OSSD) with six 4U or 4M credits, including English (ENG4U) with a minimum average of 60 percent, and one of Advanced Functions (MHF4U), Calculus and Vectors (MCV4U) or Mathematics of Data Management (MDM4U) with a minimum average of 60 percent or Computer Science (ICS4U) with a minimum average of 70 percent.
 
 **First Year Courses**
 
@@ -53,17 +53,16 @@ Some of the first year courses that you will take in Ontario Tech University’s
 
 | Course  | Description           |
 | -------------|-------------| 
-| **BUSI 1020U – Business Communications:** | A course about organizing business documents.
-| **BUSI 1600U – Management of the Enterprise:** |A class about managing projects on a company wide scale.|
-| **BUSI 2000U – Collaborative Leadership:** |Learning about working in a team environment.|
-|**BUSI 2000U – Collaborative Leadership:**  | Learning about working in a team environment.|
-| **INFR 1010U – Discrete Mathematics:** |  A course about the study of mathematical structures.|
-| **INFR 1016U – Introductory Calculus:** |Calculus introduction.|
-|**INFR 1101U – Introduction to Programming for IT:**  |Programming introduction. |
-|**INFR 1411U – Introduction to Networking I:**  |A course about networks and how they work.|
-|**INFR 1421U – Introduction to Networking II:**  |A continuation of networking. |
-|**INFR 2141U – Object Oriented Programming for IT:** |A course on object oriented programming.|
-|**INFR 2810U – Computer Architecture:** |Teaches how computers work.|
+| **BUSI 1020U – Business Communications** | A course about organizing business documents.
+| **BUSI 1600U – Management of the Enterprise** |A class about managing projects on a company wide scale.|
+|**BUSI 2000U – Collaborative Leadership**  | Learning about working in a team environment.|
+| **INFR 1010U – Discrete Mathematics** |  A course about the study of mathematical structures.|
+| **INFR 1016U – Introductory Calculus** |Calculus introduction.|
+|**INFR 1101U – Introduction to Programming for IT**  |Programming introduction. |
+|**INFR 1411U – Introduction to Networking I**  |A course about networks and how they work.|
+|**INFR 1421U – Introduction to Networking II**  |A continuation of networking. |
+|**INFR 2141U – Object Oriented Programming for IT** |A course on object oriented programming.|
+|**INFR 2810U – Computer Architecture** |Teaches how computers and operating systems work.|
 
 **Additional Requirements**
 
@@ -107,7 +106,7 @@ The biggest method of learning cybersecurity is self-teaching through online pro
 
 **Cybersecurity Contests:** Participate in cybersecurity events or competitions. For example, in Canada there are the [CyberSci competitions](https://cybersecuritychallenge.ca/) for university and college students. 
 
-Cooperative education: Gain some practical experience through internships. It does not have to be related to cybersecurity, as developer jobs help with shifting towards information technology. Being familiar with development workspace, and proving you have the skills required for software development.
+**Cooperative education:** Gain some practical experience through internships. It does not have to be related to cybersecurity, as developer jobs help with shifting towards information technology. Being familiar with development workspace, and proving you have the skills required for software development.
 
 
 ## Real Jobs
