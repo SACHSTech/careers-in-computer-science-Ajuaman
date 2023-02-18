@@ -155,28 +155,28 @@ The biggest method of learning cybersecurity is self-teaching through online pro
 
 About Monica J. White      Monica is a journalist with a lifelong interest in technology. “How to Get into Cybersecurity with No Experience [Job Guide].” Springboard Blog, 11 Nov. 2022, https://www.springboard.com/blog/cybersecurity/cybersecurity-no-experience/. 
 
+Entry Level Cyber Security Jobs (with Salaries) 2022 - Indeed. https://ca.indeed.com/Entry-Level-Cyber-Security-jobs. 
+
+“Canada's Cyber Security Challenge.” CyberSci, https://cybersecuritychallenge.ca/. 
+
+“Centennial College - Cybersecurity.” Centennial College - Centennial College, https://www.centennialcollege.ca/programs-courses/full-time/cybersecurity/. 
+
+“Centennial College Logo PNG.” Tukuz.com, https://tukuz.com/wp-content/uploads/2020/10/centennial-college-logo-vector.png. Accessed 13 Feb. 2023. 
+
 “Cyber+Security Salary in Canada - Average Salary.” Talent.com, https://ca.talent.com/salary?job=cyber%2Bsecurity#:~:text=Entry%2Dlevel%20positions%20start%20at,up%20to%20%24131%2C250%20per%20year. 
 
 “Cybersecurity Analyst Job Description &amp; Role Breakdown.” UT Austin Boot Camps, 28 Jan. 2021, https://techbootcamps.utexas.edu/blog/cybersecurity-analyst-job-description-role-breakdown/. 
 
-“What Does a Cybersecurity Analyst Do? 2023 Job Guide.” Coursera, https://www.coursera.org/articles/cybersecurity-analyst-job-guide. 
+“Hacker Stock Photo.” Forbes, https://www.forbes.com/sites/forbestechcouncil/2022/07/29/just-because-you-dont-see-hackers-doesnt-mean-theyre-not-in-your-network/?sh=5651f5042949. Accessed 13 Feb. 2023.
 
 “Information Technology - Networking and Information Technology Security.” Ontario Tech University, https://ontariotechu.ca/programs/undergraduate/computers-and-technology/information-technology-networking-and-information-technology-security/. 
-
-“Networking and Information Technology Security.” Program: Networking and Information Technology Security - Ontario Tech University - Acalog ACMS™, https://calendar.ontariotechu.ca/preview_program.php?catoid=34&amp;poid=6209&amp;returnto=1407. 
-
-“Centennial College - Cybersecurity.” Centennial College - Centennial College, https://www.centennialcollege.ca/programs-courses/full-time/cybersecurity/. 
-
-Entry Level Cyber Security Jobs (with Salaries) 2022 - Indeed. https://ca.indeed.com/Entry-Level-Cyber-Security-jobs. 
 
 “Lead API Security Analyst.” Lead API Security Analyst - Compunnel Inc, https://www.monster.ca/job-openings/lead-api-security-analyst-toronto-08--30558d66-9b75-4871-aeee-c8e09c417a47?sid=1121a88c-8d4e-4252-8b9f-ad5460e4e83d&amp;jvo=v.k.r.1&amp;so=v.s.r&amp;hidesmr=1&amp;promoted=KEVEL. 
 
 “Mid+Level+Cyber+Security Jobs.” Monster Jobs - Job Search, Career Advice &amp; Hiring Resources | Monster.ca | Mid+Level+Cyber+Security, https://www.monster.ca/jobs/search?q=mid%2Blevel%2BCyber%2BSecurity&amp;where=&amp;page=1&amp;so=m.s.sh. 
 
+“Networking and Information Technology Security.” Program: Networking and Information Technology Security - Ontario Tech University - Acalog ACMS™, https://calendar.ontariotechu.ca/preview_program.php?catoid=34&amp;poid=6209&amp;returnto=1407. 
+
 “Ontario Tech University Logo.” Ontariotechu.ca, https://ontariotechu.ca/. Accessed 13 Feb. 2023. 
 
-“Centennial College Logo PNG.” Tukuz.com, https://tukuz.com/wp-content/uploads/2020/10/centennial-college-logo-vector.png. Accessed 13 Feb. 2023. 
-
-“Canada's Cyber Security Challenge.” CyberSci, https://cybersecuritychallenge.ca/. 
-
-“Hacker Stock Photo.” Forbes, https://www.forbes.com/sites/forbestechcouncil/2022/07/29/just-because-you-dont-see-hackers-doesnt-mean-theyre-not-in-your-network/?sh=5651f5042949. Accessed 13 Feb. 2023. 
+“What Does a Cybersecurity Analyst Do? 2023 Job Guide.” Coursera, https://www.coursera.org/articles/cybersecurity-analyst-job-guide.  
